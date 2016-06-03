@@ -14,9 +14,9 @@ The patterns can be structured in roughly three different categories. Please cli
 * [Multiton]
 * [Pool]
 * [Prototype]
-* [SimpleFactory](Creational/src/cc/rooho/creational/simpleFactory)
+* [SimpleFactory]
 * [Singleton](Creational/src/cc/rooho/creational/singleton)
-* [StaticFactory](Creational/src/cc/rooho/creational/staticfactory)
+* [StaticFactory]
 
 ### [Structural](Structural)
 

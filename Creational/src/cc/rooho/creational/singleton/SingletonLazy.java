@@ -10,7 +10,7 @@ package cc.rooho.creational.singleton;
  */
 public class SingletonLazy {
     private SingletonLazy(){}
-    private static SingletonLazy mInstances;
+    private volatile static SingletonLazy mInstances;
     public static SingletonLazy getInstances(){
         if(mInstances == null){
             synchronized (SingletonLazy.class) {
