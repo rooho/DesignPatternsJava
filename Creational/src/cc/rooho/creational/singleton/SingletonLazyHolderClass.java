@@ -10,7 +10,7 @@ package cc.rooho.creational.singleton;
  */
 public class SingletonLazyHolderClass {
     private SingletonLazyHolderClass(){};
-    private static class SingletonHolder{
+    private static class SingletonHolder {
         private static SingletonLazyHolderClass mInstances = new SingletonLazyHolderClass();
     }
     public static SingletonLazyHolderClass getInstance(){
