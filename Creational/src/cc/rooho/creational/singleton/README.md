@@ -1,4 +1,4 @@
-# **Singleton**
+# **Singleton Model**
 
 ### **Hungry of Singleton** [](/SingletonHungry.java)
 饥饿模式，只要类被初始化，静态类变量就会被初始化。好处是没有线程安全的问题，缺点是把单例对象的初始化耦合在了静态区初始化上，静态初始化会消耗更多的资源。

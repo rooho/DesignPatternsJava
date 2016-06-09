@@ -6,7 +6,7 @@ This is a collection of known design patterns and some sample code how to implem
 
 The patterns can be structured in roughly three different categories. Please click on the [:notebook:](http://en.wikipedia.org/wiki/Software_design_pattern) for a full explanation of the pattern on Wikipedia.
 
-### [Creational](Creational)
+### [Creational](Creational/src/cc/rooho/creational)
 
 * [AbstractFactory]
 * [Builder]
@@ -18,9 +18,9 @@ The patterns can be structured in roughly three different categories. Please cli
 * [Singleton](Creational/src/cc/rooho/creational/singleton)
 * [StaticFactory]
 
-### [Structural](Structural)
+### [Structural](Structural/src/cc/rooho/structural)
 
-* [Adapter]
+* [Adapter](Structural/src/cc/rooho/structural/adapter)
 * [Bridge]
 * [Composite]
 * [DataMapper]
@@ -31,7 +31,7 @@ The patterns can be structured in roughly three different categories. Please cli
 * [Proxy]
 * [Registry]
 
-### [Behavioral](Behavioral)
+### [Behavioral](Behavioral/src/cc/rooho/behavioral)
 
 * [ChainOfResponsibilities]
 * [Command]
@@ -46,7 +46,7 @@ The patterns can be structured in roughly three different categories. Please cli
 * [TemplateMethod]
 * [Visitor]
 
-### [More](More)
+### [More](More/src/cc/rooho/more)
 * [Delegation]
 * [ServiceLocator]
 * [Repository]
