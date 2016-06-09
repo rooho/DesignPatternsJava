@@ -1,4 +1,4 @@
-# **Adapter Model **(包装器 Wrapper)
+# **Adapter Model **(包装器 Wrapper)[:notebook:](https://www.wikiwand.com/en/Adapter_pattern)
 ---
 >将一个类的接口转换为客户希望的另一个接口，适配器模式使得原本由于接口不兼容而不能一起工作的类可以一起工作。
 

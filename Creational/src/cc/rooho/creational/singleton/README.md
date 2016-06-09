@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# **Singleton Model**
-=======
 # **Singleton** [:notebook:](https://www.wikiwand.com/en/Singleton_pattern#/The_Enum-way)
->>>>>>> 7c1622c266cf731504fbee78e2d0d635d3408db8
 
 
 ### Hungry of Singleton   
