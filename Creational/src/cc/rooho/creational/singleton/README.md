@@ -1,4 +1,4 @@
-# **Singleton** [:notebook:](https://www.wikiwand.com/en/Singleton_pattern#/The_Enum-way)
+# **[Singleton](https://www.wikiwand.com/en/Singleton_pattern#/The_Enum-way)**
 
 
 ### Hungry of Singleton   
