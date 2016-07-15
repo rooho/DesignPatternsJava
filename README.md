@@ -1,5 +1,5 @@
 # DesignPatternsJAVA
-
+---
 This is a collection of known design patterns and some sample code how to implement them in Java. 
 
 ## Patterns
@@ -8,15 +8,12 @@ The patterns can be structured in roughly three different categories. Please cli
 
 ### [Creational](Creational/src/cc/rooho/creational)
 
-* [AbstractFactory]
+* [Singleton](Creational/src/cc/rooho/creational/singleton)
+* [Factory](Creational/src/cc/rooho/creational/factory)
 * [Builder]
-* [FactoryMethod]
 * [Multiton]
 * [Pool]
 * [Prototype]
-* [SimpleFactory]
-* [Singleton](Creational/src/cc/rooho/creational/singleton)
-* [StaticFactory]
 
 ### [Structural](Structural/src/cc/rooho/structural)
 
@@ -41,8 +38,8 @@ The patterns can be structured in roughly three different categories. Please cli
 * [NullObject]
 * [Observer]
 * [Specification]
-* [State]
-* [Strategy]
+* [State](Behavioral/src/cc/rooho/behavioral/state)
+* [Strategy](Behavioral/src/cc/rooho/behavioral/strategy)
 * [TemplateMethod]
 * [Visitor]
 
@@ -51,5 +48,6 @@ The patterns can be structured in roughly three different categories. Please cli
 * [ServiceLocator]
 * [Repository]
 * [EAV]
+* [IOC](More/src/cc/rooho/more/ioc)
 
 
