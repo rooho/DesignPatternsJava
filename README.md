@@ -12,8 +12,8 @@ The patterns can be structured in roughly three different categories. Please cli
 * [Factory](Creational/src/cc/rooho/creational/factory)
 * [Builder]
 * [Multiton]
-* [Pool]
-* [Prototype]
+* [Object Pool](Creational/src/cc/rooho/creational/objectpool)
+* [Prototype](Creational/src/cc/rooho/creational/prototype)
 
 ### [Structural](https://www.wikiwand.com/en/Structural_pattern)
 
