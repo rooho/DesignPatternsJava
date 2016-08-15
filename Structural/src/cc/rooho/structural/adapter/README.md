@@ -7,4 +7,4 @@
 
 原有类 HHashMap 并不适应新的接口 ISet 的要求，但是又不允许改变其方法名称或派生 HHashMap。这样我们创建一个新类 HHashSet 来实现 ISet 接口，并持有一个 HHashMap 对象来实现代码。
 
-<img src="/uml/adapter_uml.png" alt="adapter uml model" />
+![adapter](/uml/adapter_uml.png)

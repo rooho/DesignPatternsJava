@@ -1,4 +1,4 @@
-package cc.rooho.creational.singleton;
+package cc.rooho.creational.multiton;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -11,7 +11,7 @@ import java.util.Map;
  * @author Y.J.ZHOU
  * @date 2016.6.3 0:59.
  */
-public class SingletonRegistry {
+public class Multiton {
     private static Map<String, Object> map = new HashMap<String, Object>();
 
     public static Object getInstance(String key) {

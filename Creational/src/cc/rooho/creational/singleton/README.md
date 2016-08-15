@@ -21,7 +21,3 @@
 使用枚举来实现单实例控制会更加简洁，而且无偿地提供了序列化机制，并由JVM从根本上提供保障，绝对防止多次实例化，是更简洁、高效、安全的实现单例的方式。
 
 [SingletonEnum.java](SingletonEnum.java)
-
-### Registry of Singleton
-当程序需要管理一批不同类而又需要单例的对象时候可以使用注册单例模式。我们通过 SingletonRegistry 这个类来维持一个对象注册 map ，如果注册表中已有对象则直接取回，依此来保证 SingletonRegistry 所取回的对象都是单例。
-[SingletonRegistry.java](SingletonRegistry.java)

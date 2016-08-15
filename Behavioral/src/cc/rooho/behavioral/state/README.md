@@ -13,4 +13,4 @@
 Strategy模式与State模式的结构形式几乎完全一样。但它们的应用场景（目的）却不一样
 State模式重在强调对象内部状态的变化改变对象的行为，Strategy模式重在外部对策略的选择，策略的选择由外部条件决定，也就是说算法的动态的切换。但由于它们的结构是如此的相似，我们可以认为“状态模式是完全封装且自修改的策略模式”。
 
-<img src="/uml/state_uml.png" alt="state uml model" />
+![state](/uml/state_uml.png)

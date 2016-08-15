@@ -6,7 +6,7 @@
 * 当创建复杂对象的算法应该独立于该对象的组成部分以及它们的装配方式时。
 * 当构造过程必须允许被构造的对象有不同的表示时。
 
-<img src="/uml/builder_pattern_uml.png" alt="builder pattern uml model" />
+![builder](/uml/builder_pattern_uml.png)
 
 
 

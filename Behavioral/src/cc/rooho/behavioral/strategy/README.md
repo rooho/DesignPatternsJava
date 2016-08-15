@@ -9,4 +9,4 @@
 2. 抽象策略对象：它可由接口或抽象类来实现。
 3. 具体策略对象：它封装了实现同不功能的不同算法。
 
-<img src="/uml/strategy_uml.png" alt="strategy uml model" />
+![strategy](/uml/strategy_uml.png)
