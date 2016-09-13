@@ -25,7 +25,7 @@ The patterns can be structured in roughly three different categories. Please cli
 * [DependencyInjection]
 * [Facade]
 * [FluentInterface]
-* [Proxy]
+* [Proxy](Structural/src/cc/rooho/structural/proxy)
 * [Registry]
 
 ### [Behavioral](https://www.wikiwand.com/en/Behavioral_pattern)
